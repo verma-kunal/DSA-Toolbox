@@ -20,15 +20,33 @@ public class MultiDimensionalArrays {
                 {7,8,9} // 2nd index
         };
 
-        int[][] arr = new int[3][2];
+        int[][] arr = new int[3][3];
         // Input:
         for (int row = 0; row < arr.length; row++) {
             // for each col in every row:
             for (int col = 0; col < arr[row].length; col++) {
-
+                arr[row][col] = in.nextInt();
             }
         }
-        
+
+        // output: (1st method)
+//        for (int row = 0; row < arr.length; row++) {
+//            // for each col in every row:
+//            for (int col = 0; col < arr[row].length; col++) {
+//                System.out.print(arr[row][col]+" ");
+//            }
+//            System.out.println();
+//        }
+
+        // output: (2nd method)
+        for (int row=0; row< arr.length; row++){
+            System.out.println(Arrays.toString(arr[row]));
+        }
+        // output: (3rd method -> Enhanced FOR loop)
+        for (int[] element : arr) { // for every element (which is an array itself), print from 'arr'
+            System.out.println(Arrays.toString(element));
+        }
+
     }
 }
 

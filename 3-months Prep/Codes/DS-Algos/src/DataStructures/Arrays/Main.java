@@ -7,5 +7,6 @@ public class Main {
 
         String[] name = new String[4];
         System.out.println(name[2]);
+
     }
 }

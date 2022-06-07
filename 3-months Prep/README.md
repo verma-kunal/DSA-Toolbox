@@ -10,7 +10,7 @@ y = min. number of questions to be done
 
 - [ ] **Time & Space Complexity [1,15]**
 - [ ] **Array [8,40]**
-    - [ ] **Basics**
+    - [x] **Basics**
     - [ ] **Searching**
         - [ ] Linear Search
         - [ ] Binary Search (1D & 2D arrays)

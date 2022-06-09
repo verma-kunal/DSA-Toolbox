@@ -12,7 +12,7 @@ y = min. number of questions to be done
 - [ ] **Array [8,40]**
     - [x] **Basics**
     - [ ] **Searching**
-        - [ ] Linear Search
+        - [X] Linear Search
         - [ ] Binary Search (1D & 2D arrays)
     - [ ] **Sorting**
         - [ ] Bubble Sort

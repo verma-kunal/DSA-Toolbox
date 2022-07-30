@@ -1,6 +1,6 @@
-# Data-Structures & Algorithms ToolBox
+# Data Structures & Algorithms ToolBox
 
-This repository contains my learnings of Data Structures & Algorithms.
+This repository contains my learnings of Data Structures-Algorithms and Interview Preparation.
 
 ## Topics
 

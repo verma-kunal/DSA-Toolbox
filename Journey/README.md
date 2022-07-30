@@ -1,15 +1,7 @@
-Game Plan: https://www.techinterviewhandbook.org/coding-interview-study-plan/#the-3-month-study-plan---with-recommended-study-resources-and-practice-question-links
-
 ## Topics
 
-```
-[x,y]:
-x = number of days required
-y = min. number of questions to be done
-```
-
-- [ ] **Time & Space Complexity [1,15]**
-- [ ] **Array [8,40]**
+- [ ] **Time & Space Complexity**
+- [ ] **Array**
     - [ ] **Basics**
     - [ ] **Searching**
         - [ ] Linear Search
@@ -19,10 +11,10 @@ y = min. number of questions to be done
         - [ ] Selection Sort
         - [ ] Insertion Sort
         - [ ] Cycle Sort 
-- [ ] **Strings & StringBuilder [1,4]**
-- [ ] **Recursion & Backtracking [x,x]**
+- [ ] **Strings & StringBuilder**
+- [ ] **Recursion & Backtracking**
     - [ ] Quick Sort
     - [ ] Merge Sort
-- [ ] **Linked List [2,10]**
-- [ ] **Stacks & Queues [2,10]**
+- [ ] **Linked List**
+- [ ] **Stacks & Queues**
 

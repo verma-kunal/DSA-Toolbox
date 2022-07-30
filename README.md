@@ -2,7 +2,7 @@
 
 This repository contains my learnings of Data Structures & Algorithms.
 
-## Resources:
+### Resources:
 - [Competitive Programming & Interview Prep](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
 
 

@@ -1,7 +1,9 @@
-# Data-Structures-Algortihms-ToolBox
+# Data-Structures & Algorithms ToolBox
+
+This repository contains my learnings of Data Structures & Algorithms.
 
 ## Resources:
-- [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
+- [Competitive Programming & Interview Prep](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
 
 
 
